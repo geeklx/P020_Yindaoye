@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="view.customviewpager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../依赖项目/view.customviewpager/bin/view.customviewpager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

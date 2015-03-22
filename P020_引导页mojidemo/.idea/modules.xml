@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mojidemo.iml" filepath="$PROJECT_DIR$/mojidemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../依赖项目/view.customviewpager/view.customviewpager.iml" filepath="$PROJECT_DIR$/../../依赖项目/view.customviewpager/view.customviewpager.iml" />
+    </modules>
+  </component>
+</project>
+

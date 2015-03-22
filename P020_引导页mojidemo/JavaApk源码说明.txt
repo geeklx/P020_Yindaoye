@@ -1,0 +1,26 @@
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站源码为网上搜集或网友提供，如果涉及或侵害到您的版║
+  ║      权，请立即通知我们。                                ║
+  ║   4) 本站提供免费代码只可供研究学习使用，切勿用于商业用途║
+  ║      由此引起一切后果与本站无关。                        ║
+  ║   5) 商业源码请在源码授权范围内进行使用！                ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 : javaapk@qq.com                      ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝
+
+源码简介:
+本项目是一个仿墨迹天气的引导界面的例子源码。引导界面共有4个视图，截图里的图片都是实现后的静态图，运行程序可以看到动画效果。第一个界面中有四个动画效果,最上面的“极低耗电”标示，最下面的箭头标示，还有中间旋转的电池图标和电子表的闪动，第二个界面最上面的“极小安装”动画和最下面的箭头动画和第一个图中的一样，不做过多介绍第三个界面中间云移动效果使用了平移动画，火箭喷气效果使用了animation-list的逐帧动画。第四个界面中的“墨迹天气3.0”图片使用了RotateAnimation，动画插值器使用的CycleInterpolator，“全面革新 我是极致控”使用的渐变尺寸动画。向上滑动的viewpager使用的开源库ViewPager-Android。几个界面配合基本实现了墨迹天气的引导界面以及动画实现。
+涉及模块&技术
+动画
+...
